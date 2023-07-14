@@ -1,2 +1,6 @@
 # LSTM
 En este trabajo de grado se ha desarrollado un prototipo de sistema de trading automático que utiliza técnicas de machine learning, específicamente redes neuronales LSTM, para el análisis de series temporales en el mercado financiero. Se ha realizado una caracterización de las diferentes bibliotecas de Python según la literatura existente. Además, se ha diseñado el prototipo basado en el modelo de redes neuronales LSTM y se ha utilizado Optuna como framework para la optimización de hiper parámetros, para la implementación del sistema de trading, se ha desarrollado un modelo de pipeline que permite visualizar el flujo de la aplicación y el comportamiento del sistema, se ha evaluado el modelo utilizando el índice Volatility 75 y posteriormente se ha realizado una experimentación utilizando la acción de Apple, los resultados obtenidos demuestran que este algoritmo tiene potencial y puede ser empleado de manera efectiva, ya que sus resultados son viables y prometedores con un m.s.e de 1.4159e-05 .
+
+
+![rsmpro 10](https://github.com/LauraGonzalezAlvarez/LSTM/assets/82009638/cf8852d8-eb7f-4041-8830-bde6c7b74ff3)
+![rsmpro 10 zoom](https://github.com/LauraGonzalezAlvarez/LSTM/assets/82009638/d1efe761-2356-45f6-8a78-d777fe6d884b)
